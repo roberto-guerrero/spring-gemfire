@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gemfire.iml" filepath="$PROJECT_DIR$/.idea/modules/gemfire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gemfire_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gemfire_main.iml" group="gemfire" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gemfire_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gemfire_test.iml" group="gemfire" />
+    </modules>
+  </component>
+</project>
